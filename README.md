@@ -1,4 +1,4 @@
-# rdpeng-ProgrammingAssignment2
+#ProgrammingAssignment2
 
 #Introduction
 
